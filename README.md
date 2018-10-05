@@ -1,2 +1,2 @@
-# GAN-MNST
-First GAN for project using the MNST digit library.
+# GAN-MNIST
+First GAN for project using the MNIST digit library.
